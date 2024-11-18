@@ -11,8 +11,8 @@ For non-technical users, avoid jargon and use simple language, focusing on what 
 3. How can you gauge the existing knowledge of your audience to avoid overwhelming them with jargon?
   
   Reviewing feedback or comments from past communications.
-  Asking the audience directly (via surveys or questions).
-  Considering the context (e.g., is the content for beginners or professionals?).
+  Asking the audience directly.
+  Considering if the content for beginners or professionals?.
   
 4. What techniques can you use to ensure your content is accessible to those with limited technical knowledge?
    
@@ -26,8 +26,7 @@ For non-technical users, avoid jargon and use simple language, focusing on what 
   
 6. Can you provide examples of how simplifying terms (e.g., "start" instead of "initiate") improves comprehension?
    
-    Using simpler terms like “start” instead of “initiate” makes the content easier to understand. “Start” is a common word that most people are familiar with, while “initiate” might confuse someone with less         technical knowledge.
-
+    Using simpler terms like “start” instead of “initiate” makes the content easier to understand.
 7. How can using examples and visuals help in explaining complex concepts more clearly?
    
   Examples and visuals make abstract or difficult concepts easier to understand by showing how something works in a real-world context. Visuals can simplify complex data or processes and make them more relatable.
